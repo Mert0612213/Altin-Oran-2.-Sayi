@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  ![Altın Oran Logo](https://placehold.co/400)
+  <img src="https://pouch.jumpshare.com/preview/kcQWfxCJ41n5ZWBJtutohU0ptM-ddIpraCxc6kuWo3dQmJnBaS3SA5vJcxEjo2todBTh1YU-kCN1hjki5KAPNszbZtu5uEJQbdXw7qoGlww" alt="Altın Oran Logo" width="150">
+
 
   # 📖 **Altın Oran Dergisi**
   
