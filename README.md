@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  ![Altın Oran Logo](https://via.placeholder.com/150x150.png?text=Logo)
+  <img src="https://pouch.jumpshare.com/preview/kcQWfxCJ41n5ZWBJtutohU0ptM-ddIpraCxc6kuWo3dQmJnBaS3SA5vJcxEjo2todBTh1YU-kCN1hjki5KAPNszbZtu5uEJQbdXw7qoGlww" alt="Altın Oran Logo" width="150">
+
 
   # 📖 **Altın Oran Dergisi**
   
@@ -18,7 +19,7 @@
 ---
 
 ## 🎯 **Proje Amacı**
-**Altın Oran Dergisi**, kültür, sanat, edebiyat ve tasarım alanlarında kaliteli içerikler üretir ve paylaşır.  
+Ankara Erman Ilıcak Fen Lisesi'nin okul dergisi olarak varlığını sürdüren **Altın Oran** dergisi kültür, sanat, edebiyat ve tasarım alanlarında içerikler üretir ve paylaşır.  
 Bu repo, dergimizin içerik, tasarım ve baskı öncesi tüm çalışmalarını barındırır.
 
 ---
@@ -26,8 +27,8 @@ Bu repo, dergimizin içerik, tasarım ve baskı öncesi tüm çalışmalarını 
 ## 📂 **Klasör Yapısı**
 
 ```plaintext
-articles/   → Makaleler, röportajlar, yazılar
-images/     → Fotoğraflar, kapaklar, illüstrasyonlar
-design/     → InDesign, Illustrator, PDF dosyaları
-proofs/     → Baskı öncesi kontrol taslakları
-README.md   → Bu dosya
+asets/             → Tasarımda kullanılan tüm görsel ögeleri bulundurur
+yazılar/           → yazıların, makalelerin ve notların bulunduğu klasör
+preview/           → tasarımları incelemek için export edilen dosyalar
+AltınOran.afpub    → Affinty publisher tasarım dosyası
+README.md          → Bu dosya
